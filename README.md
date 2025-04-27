@@ -33,7 +33,7 @@ The analysis is conducted in a Jupyter Notebook: `Jakarta_Air_Analysis_Richard.i
 The models were evaluated using the following metric:
 - **Confusion Matrix**: Measures the number of correct and incorrect predictions for each AQI category, showing the classification performance of Random Forest, MLP, and SVM models.
 
-![Confusion Matrices](https://raw.githubusercontent.com/angelalim88/jakarta-air-quality/main/images/confusion_matrices.png)
+![Confusion Matrices](https://raw.githubusercontent.com/angelalim88/Jakarta-Air-Quality-Index-Classification/images/confusion_matrices.png)
 
 ## Evaluation Results
 The confusion matrices reveal the following:
