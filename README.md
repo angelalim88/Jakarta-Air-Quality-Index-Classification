@@ -41,3 +41,7 @@ The confusion matrices reveal the following:
 - **MLP and SVM**: Show moderate performance but struggle with certain categories, possibly due to data imbalance or feature complexity.
 
 These results indicate that Random Forest is the most reliable model for predicting AQI categories in this dataset, providing a solid foundation for air quality monitoring and policy support.
+
+
+![Confusion Matrices](https://github.com/angelalim88/Jakarta-Air-Quality-Index-Classification/blob/main/images/average_Jakarta_pollutant.png)
+![Confusion Matrices](https://github.com/angelalim88/Jakarta-Air-Quality-Index-Classification/blob/main/images/air_quality_distribution.png)
